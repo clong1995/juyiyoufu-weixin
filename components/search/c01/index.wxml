@@ -1,0 +1,4 @@
+<view class='search'>
+  <text class='district'>{{district}}</text>
+  <text class='search-input'>{{placeholder}}</text>
+</view>

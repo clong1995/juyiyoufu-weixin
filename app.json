@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/detail/index",
+    "pages/order/index",
+    "pages/list/index",
+    "pages/collect/index",
+    "pages/home/index",
+    "pages/progress/index",
+    "pages/operation/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "巨蚁医护",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh":true
+  }
+}
