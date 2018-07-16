@@ -19,8 +19,8 @@ Component({
       },
       {
         url: "/pages/operation/index",
-        name: "订单",
-        title:"订单"
+        name: "收藏",
+        title:"收藏"
       },
       {
         url: "/pages/home/index",
