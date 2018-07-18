@@ -1,7 +1,8 @@
 <view class='header'>
-  <image src="http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg" />
-  <text class='name'>张先生</text>
-  <text class='phone'>15166077180</text>
+  <image src="http://cdf30088.xuanxueyl.cn/images/icon_user@3x.png" />
+ <!-- <button class='noLogin'>点击登录</button> -->
+   <text class='name'>张先生</text>
+  <text class='phone'>15166077180</text> 
 </view>
 <view class='order'>
   <text class='my'>我的订单</text>

@@ -91,8 +91,6 @@ Page({
       })
      }
    })
-
-
   },
   //检查登录状态
   checkSession:function(){
@@ -104,8 +102,5 @@ Page({
          console.log('session fail');
        }
      })
-
-
-
   }
 })

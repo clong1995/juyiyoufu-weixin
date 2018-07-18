@@ -95,3 +95,8 @@
   float: right;
   font-size: 28rpx;
 }
+.noLogin{
+
+
+  
+}
