@@ -7,7 +7,7 @@
 <view class='filter'>
   <text class='all'>综合</text>
   <text class='sex'>性别</text>
-  <text class='xxx'>xx</text>
+  <text class='evaluate'>评价</text>
   <text class='more' bindtap='filterMoreTap'>筛选</text>
 </view>
 

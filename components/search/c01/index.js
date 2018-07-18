@@ -10,7 +10,7 @@ Component({
     },
     placeholder:{
       type:String,
-      value:'您可输入关键字搜索医护人员'
+     value:'您可输入关键字搜索医护人员'
     }
   },
 
@@ -25,6 +25,15 @@ Component({
    * 组件的方法列表
    */
   methods: {
-
+    selectCitys:function(){
+      wx.navigateTo({
+        url: '/pages/citys/index'
+      })
+    },
+    search:function(){
+      wx.navigateTo({
+        url: '/pages/search/index'
+      })
+    }
   }
 })

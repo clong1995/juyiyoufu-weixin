@@ -18,9 +18,9 @@ Component({
         title:"首页"
       },
       {
-        url: "/pages/operation/index",
-        name: "订单",
-        title:"订单"
+        url: "/pages/favorite/index",
+        name: "收藏",
+        title:"收藏"
       },
       {
         url: "/pages/home/index",

@@ -7,23 +7,23 @@ Component({
     nav:{
       type:Array,
       value: [{
-        name: '医院陪护',
-        img: 'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
+        name: '挂号陪诊',
+        img: 'http://cdf30088.xuanxueyl.cn/images/icon_home_1@3x.png',
         link: '../order/index?id=1'
       },
       {
-        name: '挂号陪诊',
-        img: 'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
+        name: '医疗陪护',
+        img: 'http://cdf30088.xuanxueyl.cn/images/icon_home_2@3x.png',
         link: '../order/index?id=2'
       },
       {
-        name: '居家陪护',
-        img: 'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
+        name: '幼孕医护',
+        img: 'http://cdf30088.xuanxueyl.cn/images/icon_home_3@3x.png',
         link: '../order/index?id=3'
       },
       {
-        name: '孕幼陪护',
-        img: 'http://img02.tooopen.com/images/20150928/tooopen_sy_143912755726.jpg',
+        name: '居家陪护',
+        img: 'http://cdf30088.xuanxueyl.cn/images/icon_home_4@3x.png',
         link: '../order/index?id=4'
       }]
     }

@@ -7,12 +7,20 @@ Page({
     comment:[1,2,3,4,5,6,7]
   },
 
+  //跳转空闲日历
+  freeTime: function (e) {
+    wx.navigateTo({
+      url: '../calendar/index?id=1'
+    })
+  },
+
   //跳转回订单
   orderTap:function(e) {
     wx.navigateTo({
       url: '../order/index?id=1'
     })
   },
+
 
   /**
    * 生命周期函数--监听页面加载
