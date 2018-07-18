@@ -3,4 +3,4 @@
 <nav></nav>
 <filter id="filter" bind:finish="rightHide"></filter>
 <list id="list" bind:detail="showDetail"></list>
-<tabBar></tabBar>
+<!-- <tabBar></tabBar> -->

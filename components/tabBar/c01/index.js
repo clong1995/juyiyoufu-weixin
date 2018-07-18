@@ -18,7 +18,7 @@ Component({
         title:"首页"
       },
       {
-        url: "/pages/operation/index",
+        url: "/pages/favorite/index",
         name: "收藏",
         title:"收藏"
       },
