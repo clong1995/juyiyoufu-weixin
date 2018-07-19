@@ -1,6 +1,6 @@
 {
   "pages": [
-   
+     
     "pages/index/index",
     "pages/detail/index",
     "pages/order/index",
@@ -10,7 +10,7 @@
     "pages/progress/index",
     "pages/operation/index",
     "pages/calendar/index",
-    "pages/search/index",
+     "pages/search/index",
     "pages/citys/index",
     "pages/favorite/index",
     "pages/test/test"
